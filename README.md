@@ -1,6 +1,4 @@
-Thèmes 
-
-Champs électriques et magnétiques et risque pour la santé en milieu de travail. 
+Thème: Champs électriques et magnétiques et risque pour la santé en milieu de travail. 
 
 Question: Quels sont les métiers les plus exposés à des risques pour la santé liés à une exposition aux champs électromagnétiques industrielles? 
 
