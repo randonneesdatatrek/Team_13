@@ -5,7 +5,7 @@ Motivation:
 Je m'intéresse à la dose absorbée d'un employé dans un milieu de travail exposé aux champs électromagnétiques à fréquences industrielles (Différents milieux industriels).
 C'est une première expérience en codage. Apprentissage du language python est l'objectif principal de cette participation à ce challenge du Défi des 100 jours de Ran.Donnée.
 
-Thème: Champs électriques et magnétiques et risque pour la santé en milieu de travail. 
+Thème: Champs électriques et magnétiques et risques pour la santé en milieu de travail. 
  
 Question: Quels sont les métiers les plus exposés à des risques pour la santé liés à une exposition aux champs électromagnétiques à fréquences industrielles?/ Which jobs are most exposed to health risks from exposure to power frequency magnetic field ?
 
