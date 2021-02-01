@@ -1,6 +1,6 @@
 Thème: Champs électriques et magnétiques et risque pour la santé en milieu de travail. 
 
-Question: Quels sont les métiers les plus exposés à des risques pour la santé liés à une exposition aux champs électromagnétiques industrielles? 
+Question: Quels sont les métiers les plus exposés à des risques pour la santé liés à une exposition aux champs électromagnétiques industriels? 
 
 Ce projet présenté dans le cadre du Défi des 100 jours de Ran.Données, organisé par l’AÉBINUM et IVADO, visera à l’exploitation des données réalisées dans le cadre d’une étude réelle sur l’exposition de personne en milieu de travail à des champs magnétiques à fréquence industrielle par Joseph D. Bowman et al. (2007) dans le but de prédire quelle sont les risques liés à la santé lors d’exposition à des champs magnétique selon les types de métiers. Les données sont accessibles via les fichiers de données .xlsx publiées par le National Institute for Occupational Safety and Health  via le site web Centers for Disease Control and Prevention (CDC). Pour ce faire le language Python et la méthode apprentissage machine seront utilisés. 
 
