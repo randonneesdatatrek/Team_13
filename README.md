@@ -3,7 +3,7 @@ Coding EMF exposure Project
 
 Motivation:
 Je veux étudier l'exposition moyenne quotidienne à un champs magnétique en micro Tesla (uT) d'un employé dans un milieu de travail exposé aux champs électromagnétiques à fréquences industrielles (Différents milieux industriels).
-C'est une première expérience en codage. Apprentissage du language python est l'objectif principal de cette participation à ce challenge du Défi des 100 jours de Ran.Donnée.
+C'est une première expérience en codage.Familiarisation avec le language python est l'objectif principal de cette participation à ce challenge du Défi des 100 jours de Ran.Donnée.
 
 Thème: Champs électriques et magnétiques et risques pour la santé en milieu de travail. 
  
